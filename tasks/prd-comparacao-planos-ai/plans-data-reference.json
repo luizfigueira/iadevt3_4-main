@@ -1,0 +1,269 @@
+{
+  "tools": [
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "models": ["GPT-3.5"],
+          "volume": "Limitado (2000 completions/mês)",
+          "highlights": [
+            "Ideal para estudantes e hobbyistas",
+            "Suporte básico para principais linguagens"
+          ]
+        },
+        {
+          "name": "Individual",
+          "price": 10,
+          "models": ["GPT-4", "GPT-3.5"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Acesso a todos os modelos",
+            "Chat integrado no IDE",
+            "Sugestões de código em tempo real"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": 19,
+          "models": ["GPT-4", "GPT-3.5"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Licenciamento corporativo",
+            "Gestão de políticas de uso",
+            "Suporte prioritário"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": 39,
+          "models": ["GPT-4", "GPT-3.5", "Modelos customizados"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Controles de segurança avançados",
+            "Modelos fine-tuned com código da empresa",
+            "SLA garantido"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "models": ["GPT-3.5"],
+          "volume": "50 completions/mês",
+          "highlights": [
+            "Editor completo baseado em VS Code",
+            "Recursos básicos de IA"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "models": ["GPT-4", "Claude 3.5 Sonnet", "GPT-3.5"],
+          "volume": "500 respostas rápidas + requisições lentas ilimitadas",
+          "highlights": [
+            "Múltiplos modelos disponíveis",
+            "Chat contextual com codebase",
+            "Composer para edições multi-arquivo"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": 40,
+          "models": ["GPT-4", "Claude 3.5 Sonnet", "GPT-3.5", "O1"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Gestão centralizada de equipe",
+            "Acesso aos melhores modelos",
+            "Privacidade de dados empresarial"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claude",
+      "name": "Claude (Anthropic)",
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "models": ["Claude 3 Haiku"],
+          "volume": "Limitado",
+          "highlights": [
+            "Acesso via chat web",
+            "Uso pessoal"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "models": ["Claude 3.5 Sonnet", "Claude 3 Opus"],
+          "volume": "5x mais uso que Free",
+          "highlights": [
+            "Prioridade de acesso",
+            "Modelos mais avançados",
+            "Projetos e artefatos"
+          ]
+        },
+        {
+          "name": "API Pay-as-you-go",
+          "price": 0,
+          "models": ["Claude 3.5 Sonnet", "Claude 3 Opus", "Claude 3 Haiku"],
+          "volume": "Pague por uso (por milhão de tokens)",
+          "highlights": [
+            "Integração via API",
+            "Preço variável por modelo",
+            "Sem mínimo mensal"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "models": ["Claude 3.5 Sonnet", "Claude 3 Opus"],
+          "volume": "Maior limite por usuário",
+          "highlights": [
+            "Colaboração em projetos",
+            "Gestão de equipe",
+            "Billing consolidado"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "codeium",
+      "name": "Windsurf (Codeium)",
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "models": ["Modelos proprietários Codeium"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Autocomplete ilimitado",
+            "Suporte para 70+ linguagens",
+            "Extensões para principais IDEs"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 10,
+          "models": ["GPT-4", "Claude", "Modelos Codeium"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Acesso a múltiplos modelos premium",
+            "Chat avançado",
+            "Busca em codebase"
+          ]
+        },
+        {
+          "name": "Teams",
+          "price": 15,
+          "models": ["GPT-4", "Claude", "Modelos Codeium"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Gestão de equipe",
+            "Repositórios privados",
+            "Suporte prioritário"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": 35,
+          "models": ["Todos os modelos + customização"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Self-hosting disponível",
+            "SLA customizado",
+            "Treinamento personalizado"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "openai-codex",
+      "name": "OpenAI Codex",
+      "plans": [
+        {
+          "name": "API Free Tier",
+          "price": 0,
+          "models": ["Codex (descontinuado)"],
+          "volume": "Créditos limitados",
+          "highlights": [
+            "NOTA: Codex foi descontinuado",
+            "Substituído por GPT-4 API"
+          ]
+        },
+        {
+          "name": "GPT-4 API",
+          "price": 0,
+          "models": ["GPT-4o", "GPT-4 Turbo"],
+          "volume": "Pay-per-use (por token)",
+          "highlights": [
+            "Substituto do Codex",
+            "Pagamento por uso",
+            "Sem mensalidade fixa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kiro",
+      "name": "Kiro",
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "models": ["Modelo básico"],
+          "volume": "100 requisições/mês",
+          "highlights": [
+            "Recursos básicos",
+            "Ideal para teste"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 15,
+          "models": ["Modelos avançados"],
+          "volume": "1000 requisições/mês",
+          "highlights": [
+            "Análise de código avançada",
+            "Suporte a múltiplas linguagens"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": 50,
+          "models": ["Todos os modelos"],
+          "volume": "Ilimitado",
+          "highlights": [
+            "Integração customizada",
+            "SLA garantido",
+            "Suporte dedicado"
+          ]
+        }
+      ]
+    }
+  ],
+  "_metadata": {
+    "note": "IMPORTANTE: Estes dados são exemplos/estimativas baseadas em conhecimento geral até outubro de 2025.",
+    "warning": "AÇÃO NECESSÁRIA: Validar todos os preços e planos nos sites oficiais antes de usar em produção:",
+    "sources_to_verify": [
+      "GitHub Copilot: https://github.com/features/copilot/plans",
+      "Cursor: https://cursor.sh/pricing",
+      "Anthropic Claude: https://www.anthropic.com/pricing",
+      "Codeium/Windsurf: https://codeium.com/pricing",
+      "OpenAI: https://openai.com/pricing (nota: Codex foi descontinuado)",
+      "Kiro: Verificar site oficial (ferramenta menos conhecida)"
+    ],
+    "last_updated": "2025-10-30",
+    "validation_status": "NEEDS_VERIFICATION"
+  }
+}
+

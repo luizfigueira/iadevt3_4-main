@@ -1,0 +1,293 @@
+[
+  {
+    "tool": "github-copilot",
+    "planName": "Free",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-3.5 model",
+      "Limited usage (2000 completions/month)",
+      "Ideal for students and hobbyists",
+      "Basic support for main programming languages"
+    ],
+    "url": "https://github.com/features/copilot/plans",
+    "tags": null
+  },
+  {
+    "tool": "github-copilot",
+    "planName": "Individual",
+    "priceUsdMonthly": 10,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4 and GPT-3.5 models",
+      "Unlimited completions",
+      "Integrated chat in IDE",
+      "Real-time code suggestions"
+    ],
+    "url": "https://github.com/features/copilot/plans",
+    "tags": null
+  },
+  {
+    "tool": "github-copilot",
+    "planName": "Business",
+    "priceUsdMonthly": 19,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4 and GPT-3.5 models",
+      "Unlimited completions",
+      "Corporate licensing",
+      "Policy management tools",
+      "Priority support"
+    ],
+    "url": "https://github.com/features/copilot/plans",
+    "tags": null
+  },
+  {
+    "tool": "github-copilot",
+    "planName": "Enterprise",
+    "priceUsdMonthly": 39,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4, GPT-3.5, and custom models",
+      "Unlimited completions",
+      "Advanced security controls",
+      "Fine-tuned models with company code",
+      "Guaranteed SLA"
+    ],
+    "url": "https://github.com/features/copilot/plans",
+    "tags": null
+  },
+  {
+    "tool": "cursor",
+    "planName": "Free",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-3.5 model",
+      "50 completions per month",
+      "Full VS Code-based editor",
+      "Basic AI features"
+    ],
+    "url": "https://cursor.sh/pricing",
+    "tags": null
+  },
+  {
+    "tool": "cursor",
+    "planName": "Pro",
+    "priceUsdMonthly": 20,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4, Claude 3.5 Sonnet, and GPT-3.5",
+      "500 fast responses + unlimited slow requests",
+      "Contextual chat with codebase",
+      "Composer for multi-file edits"
+    ],
+    "url": "https://cursor.sh/pricing",
+    "tags": null
+  },
+  {
+    "tool": "cursor",
+    "planName": "Business",
+    "priceUsdMonthly": 40,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4, Claude 3.5 Sonnet, GPT-3.5, and O1",
+      "Unlimited usage",
+      "Centralized team management",
+      "Access to best models",
+      "Enterprise data privacy"
+    ],
+    "url": "https://cursor.sh/pricing",
+    "tags": null
+  },
+  {
+    "tool": "claude",
+    "planName": "Free",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to Claude 3 Haiku model",
+      "Limited usage",
+      "Web chat access",
+      "Personal use"
+    ],
+    "url": "https://www.anthropic.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "claude",
+    "planName": "Pro",
+    "priceUsdMonthly": 20,
+    "billing": "monthly",
+    "bullets": [
+      "Access to Claude 3.5 Sonnet and Claude 3 Opus",
+      "5x more usage than Free tier",
+      "Priority access",
+      "Advanced models",
+      "Projects and artifacts"
+    ],
+    "url": "https://www.anthropic.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "claude",
+    "planName": "API Pay-as-you-go",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to Claude 3.5 Sonnet, Claude 3 Opus, and Claude 3 Haiku",
+      "Pay-per-use pricing (per million tokens)",
+      "API integration",
+      "Variable pricing per model",
+      "No monthly minimum"
+    ],
+    "url": "https://www.anthropic.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "claude",
+    "planName": "Team",
+    "priceUsdMonthly": 30,
+    "billing": "monthly",
+    "bullets": [
+      "Access to Claude 3.5 Sonnet and Claude 3 Opus",
+      "Higher limits per user",
+      "Project collaboration",
+      "Team management",
+      "Consolidated billing"
+    ],
+    "url": "https://www.anthropic.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "windsurf",
+    "planName": "Free",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to proprietary Codeium models",
+      "Unlimited autocomplete",
+      "Support for 70+ languages",
+      "Extensions for main IDEs"
+    ],
+    "url": "https://codeium.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "windsurf",
+    "planName": "Pro",
+    "priceUsdMonthly": 10,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4, Claude, and Codeium models",
+      "Unlimited usage",
+      "Advanced chat",
+      "Codebase search"
+    ],
+    "url": "https://codeium.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "windsurf",
+    "planName": "Teams",
+    "priceUsdMonthly": 15,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4, Claude, and Codeium models",
+      "Unlimited usage",
+      "Team management",
+      "Private repositories",
+      "Priority support"
+    ],
+    "url": "https://codeium.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "windsurf",
+    "planName": "Enterprise",
+    "priceUsdMonthly": 35,
+    "billing": "monthly",
+    "bullets": [
+      "Access to all models plus customization",
+      "Unlimited usage",
+      "Self-hosting available",
+      "Custom SLA",
+      "Personalized training"
+    ],
+    "url": "https://codeium.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "codex-cli",
+    "planName": "API Free Tier",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Codex model (discontinued)",
+      "Limited credits",
+      "Note: Codex has been discontinued",
+      "Replaced by GPT-4 API"
+    ],
+    "url": "https://openai.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "codex-cli",
+    "planName": "GPT-4 API",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to GPT-4o and GPT-4 Turbo",
+      "Pay-per-use pricing (per token)",
+      "Codex replacement",
+      "Pay-as-you-go model",
+      "No fixed monthly fee"
+    ],
+    "url": "https://openai.com/pricing",
+    "tags": null
+  },
+  {
+    "tool": "kiro",
+    "planName": "Free",
+    "priceUsdMonthly": 0,
+    "billing": "monthly",
+    "bullets": [
+      "Access to basic model",
+      "100 requests per month",
+      "Basic features",
+      "Ideal for testing"
+    ],
+    "url": "https://kiro.ai",
+    "tags": null
+  },
+  {
+    "tool": "kiro",
+    "planName": "Pro",
+    "priceUsdMonthly": 15,
+    "billing": "monthly",
+    "bullets": [
+      "Access to advanced models",
+      "1000 requests per month",
+      "Advanced code analysis",
+      "Support for multiple languages"
+    ],
+    "url": "https://kiro.ai",
+    "tags": null
+  },
+  {
+    "tool": "kiro",
+    "planName": "Enterprise",
+    "priceUsdMonthly": 50,
+    "billing": "monthly",
+    "bullets": [
+      "Access to all models",
+      "Unlimited requests",
+      "Custom integration",
+      "Guaranteed SLA",
+      "Dedicated support"
+    ],
+    "url": "https://kiro.ai",
+    "tags": null
+  }
+]
+
